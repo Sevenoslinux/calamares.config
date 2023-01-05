@@ -1,1 +1,1 @@
-# calamares.config
+# b.config
